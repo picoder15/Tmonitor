@@ -1,0 +1,13 @@
+{
+  "login": "off",
+  "username": "admin",
+  "password": "admin@123",
+  "refresh_interval": 5,
+  "data_retention_days": 91,
+  "cpu_threshold": 85,
+  "memory_threshold": 90,
+  "storage_threshold": 90,
+  "host": "0.0.0.0",
+  "port": 8895,
+  "secret_key": "termux-monitor-secret-2024"
+}%       
